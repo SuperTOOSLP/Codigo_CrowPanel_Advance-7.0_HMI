@@ -1,0 +1,10 @@
+Pega los módulos que te genera el Square Line Studio
+
+Son archivos que terminan en .c o .h
+
+ejemplo:
+
+ui.h
+ui.c
+
+Cuando los pegues puedes borrar esto.
